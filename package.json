@@ -50,6 +50,7 @@
     "@storybook/test": "^7.6.6",
     "@storybook/test-runner": "^0.16.0",
     "axe-playwright": "^1.2.3",
+    "chromatic": "^10.2.0",
     "msw": "^1.2.1",
     "msw-storybook-addon": "^1.10.0",
     "prop-types": "^15.8.1",
